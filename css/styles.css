@@ -1,4 +1,6 @@
 body {
+   
+    
     background-color: #FFFFFF;
 }
 
@@ -9,6 +11,7 @@ body {
 
 .link {
 
+    text-decoration: none;
 
 }
 
@@ -20,8 +23,10 @@ body {
 
 
 .header {
+
 }
 .header-nav {
+
 }
 .header-logo {
 }
@@ -45,14 +50,55 @@ body {
 }
 
 /* Section Hero */
-
+.hero {
+}
+.hero-title {
+}
+.hero-button {
+}
 
 /* section One Feature */
-
+.one-section {
+}
+.one-section-title {
+}
+.one-section-list {
+}
+.one-section-item {
+}
+.one-section-content-title {
+}
+.one-section-text {
+}
 /* section Two What are we doing */
-
+.two-section {
+}
+.two-section-title {
+}
+.two-section-list {
+}
+.two-section-item {
+}
 /* section Three Our Team */
-
+.three-section {
+}
+.three-section-title {
+}
+.three-section-list {
+}
+.three-section-item {
+}
+.three-section-title-name {
+}
+.three-section-pro {
+}
 /* FOOTER */
-
+.footer {
+}
+.footer-link {
+}
+.link {
+}
+.footer-text {
+}
 
