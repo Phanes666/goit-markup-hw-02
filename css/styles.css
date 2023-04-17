@@ -37,7 +37,7 @@ body {
 }
 
 .list {
-
+  
   list-style: none;
 }
 
@@ -282,3 +282,40 @@ color: #ffffff;
 .btn:focus {
 background-color: #404bbf;
 }
+
+
+.card-title-name {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+text-align: center;
+letter-spacing: 0.02em;
+color: var(--color-txt);
+}
+
+.card-pro {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.02em;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
