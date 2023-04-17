@@ -30,6 +30,7 @@ body {
 .link {
   color: inherit;
   text-decoration: none;
+  font-style: normal;
 }
 .link:hover,
 .link:focus {
@@ -37,8 +38,7 @@ body {
 }
 
 .list {
-  
-  list-style: none;
+ list-style: none;
 }
 
 .visually-hidden {
@@ -129,8 +129,9 @@ color: var(--color-txt);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-
-
+}
+.one-section-list {
+  background-color: #ffffff;
 }
 /* section Two What are we doing */
 .two-section {
