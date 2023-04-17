@@ -64,6 +64,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+color: var(--color-txt);
 
 }
 .header-logo {
@@ -94,14 +95,18 @@ letter-spacing: 0.02em;
 }
 .header-address-mail-item {
 }
-.header-address-mail-link {
+.header-address-link {
+  font-family: 'Roboto';
   font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
 }
 .header-address-contact-item {
 }
-.header-address-contact-link {
-  font-style: normal;
-}
+
 
 /* Section Hero */
 .hero {
