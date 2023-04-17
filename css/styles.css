@@ -5,9 +5,11 @@
 
   /* colors */
   --logo-text-color: #4d5ae5;
+  --button-backgroud: #F4F4FD;
   --color-txt: #2e2f42;
   --color-txt-body: #434455;
-  --button-backgroud: #F4F4FD;
+  
+
   /* other */
 }
 
@@ -274,7 +276,7 @@ color: #ffffff;
 }
 .btn {
   background-color: #4D5AE5;
-  font-family: inherit;
+
 }
 .btn:hover,
 .btn:focus {
