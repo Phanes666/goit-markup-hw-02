@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #FFFFFF;
   
   font-family: var(--primary-font);
 }
@@ -52,7 +52,8 @@ body {
 
 /* HEADER */
 
-.header {
+.header { 
+  
 }
 .header-nav {
 }
@@ -89,6 +90,9 @@ body {
 }
 .hero-button {
 
+}
+.hero-button-text {
+  
 }
 
 /* section One Feature */
