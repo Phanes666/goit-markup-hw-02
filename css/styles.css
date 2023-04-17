@@ -58,6 +58,7 @@ body {
 /* HEADER */
 
 .header {
+  background-color: #FFFFFF;
 }
 .header-nav {
   font-family: "Roboto";
@@ -259,19 +260,15 @@ color: var(--logo-text-color);
 .btn:focus {
 background-color: #404bbf;
 }
-
 .btnp {
 background-color: var(--button-backgroud);
-
 }
 .btnp:hover,
 .btnp:focus {
   color: #FFFFFF;
 }
-
 .btnpa {
-  
-  font-size: 16px;
+    font-size: 16px;
 	font-family: "Roboto", sans-serif;
 	font-weight: 500;
 	font-style: normal;
