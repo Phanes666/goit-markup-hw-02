@@ -6,7 +6,13 @@
 
 /* colors */
 --logo-text-color: #4D5AE5;
-  /* other */
+--color-txt: #2E2F42;
+ --color-txt-body: #434455;
+
+/* other */
+
+
+
 }
 
 body {
@@ -61,10 +67,18 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-color: var(--logo-text-color);
+
+
+  color: var(--logo-text-color);
+
+}
+.logo-studio {
+  color: var(--color-txt);
+
+
 }
 .header-nav-list {
 }
