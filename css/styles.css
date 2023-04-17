@@ -1,67 +1,67 @@
 :root {
   /* fonts */
---primary-font: "Roboto", sans-serif;
- --secondary-font: "Raleway", sans-serif;
+  --primary-font: "Roboto", sans-serif;
+  --secondary-font: "Raleway", sans-serif;
 
+  /* colors */
+  --logo-text-color: #4d5ae5;
+  --color-txt: #2e2f42;
+  --color-txt-body: #434455;
 
-/* colors */
---logo-text-color: #4D5AE5;
---color-txt: #2E2F42;
- --color-txt-body: #434455;
-
-/* other */
-
-
-
+  /* other */
 }
 
 body {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   color: #434455;
   font-family: var(--primary-font);
 }
 
 /* BASE STYLE */
 
-
 /* base style */
 .section {
 }
 
 .btn {
-    font-family: inherit;
+  font-family: inherit;
 }
-
 
 .link {
   color: inherit;
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .list {
-    list-style: none;
+  list-style: none;
 }
 
 .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-  }
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
 
 /* HEADER */
 
-.header { 
-  
+.header {
 }
 .header-nav {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+
 }
 .header-logo {
   font-family: "Raleway", sans-serif;
@@ -71,16 +71,15 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
-
   color: var(--logo-text-color);
-
 }
 .logo-studio {
   color: var(--color-txt);
-
-
 }
 .header-nav-list {
+
+
+
 }
 .header-nav-item {
 }
@@ -93,27 +92,24 @@ body {
 .header-address-mail-item {
 }
 .header-address-mail-link {
-
-    font-style: normal;
+  font-style: normal;
 }
 .header-address-contact-item {
 }
 .header-address-contact-link {
-    font-style: normal;
+  font-style: normal;
 }
 
 /* Section Hero */
 .hero {
-    background-color: #2E2F42;
+  background-color: #2e2f42;
 }
 .hero-title {
-    color: #FFFFFF;
+  color: #ffffff;
 }
 .hero-button {
-
 }
 .hero-button-text {
-  
 }
 
 /* section One Feature */
@@ -139,7 +135,7 @@ body {
 }
 /* section Three Our Team */
 .three-section {
-    background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 .three-section-title {
 }
