@@ -83,7 +83,9 @@ body {
 .header-logo-studio {
   color: var(--color-txt);
 }
-
+.header-nav-item {
+  font-style: normal;
+}
 .header-address-link {
   font-family: "Roboto";
   font-style: normal;
