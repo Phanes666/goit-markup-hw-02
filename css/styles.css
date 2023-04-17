@@ -131,7 +131,7 @@ color: var(--color-txt);
   letter-spacing: 0.02em;
 }
 .one-section-list {
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 /* section Two What are we doing */
 .two-section {
@@ -167,7 +167,7 @@ text-transform: capitalize;
 color: var(--color-txt);
 }
 .three-section-list { 
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 .three-section-item {
 }
