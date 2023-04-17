@@ -94,7 +94,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
+.header-address {
+  font-style: normal;
+}
 /* Section Hero */
 .hero {
   background-color: #2e2f42;
@@ -174,6 +176,7 @@ color: var(--color-txt);
   background-color: #FFFFFF;
 }
 .three-section-item {
+  background-color: #FFFFFF;
 }
 .three-section-title-name {
   font-family: 'Roboto';
