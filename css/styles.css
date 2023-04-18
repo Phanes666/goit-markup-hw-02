@@ -246,10 +246,12 @@ body {
   text-transform: none;
   cursor: pointer;
   background-color: var(--button-backgroud);
+color: var(--logo-text-color);
 }
 .filter-button:hover,
 .filter-button:focus {
-
+  background-color: #404BBF;
+  color: #FFFFFF;
 }
 .btn {
   background-color: #4d5ae5;
