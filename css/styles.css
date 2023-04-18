@@ -245,8 +245,9 @@ body {
   text-decoration: none;
   text-transform: none;
   cursor: pointer;
-  color: var(--logo-text-color);
+  background-color: var(--button-backgroud: #f4f4fd);
 }
+
 .btn {
   background-color: #4d5ae5;
   font-family: inherit;
