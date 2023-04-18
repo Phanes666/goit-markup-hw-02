@@ -245,9 +245,12 @@ body {
   text-decoration: none;
   text-transform: none;
   cursor: pointer;
-  background-color: var(--button-backgroud: #f4f4fd);
+  background-color: var(--button-backgroud);
 }
+.filter-button:hover,
+.filter-button:focus {
 
+}
 .btn {
   background-color: #4d5ae5;
   font-family: inherit;
