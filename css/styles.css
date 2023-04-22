@@ -12,7 +12,7 @@
   /* other */
 }
 
-body {
+.body {
   color: var(--color-back);
   color: var(--color-txt-body);
   font-family: var(--primary-font);
@@ -29,8 +29,8 @@ body {
   text-decoration: none;
   font-style: normal;
 }
-.link:hover,
-.link:focus {
+.header-nav-link:hover,
+.header-nav-link:focus {
   color: #404bbf;
 }
 
@@ -58,6 +58,7 @@ body {
   background-color: #ffffff;
 }
 .header-nav-link {
+  
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -82,13 +83,17 @@ body {
   font-style: normal;
 }
 .header-address-link {
-
   font-style: normal;
-
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+.header-address-link:hover,
+.header-address-link:focus {
+  color: #404bbf;
+}
+
 .header-address {
   font-style: normal;
 }
@@ -97,7 +102,6 @@ body {
   background-color: #2e2f42;
 }
 .hero-title {
-
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -121,7 +125,6 @@ body {
   color: var(--color-txt);
 }
 .one-section-text {
-
   font-style: normal;
 
   font-size: 16px;
@@ -181,7 +184,6 @@ body {
   color: var(--color-txt);
 }
 .three-section-pro {
-
   font-style: normal;
 
   font-size: 16px;
@@ -208,7 +210,6 @@ body {
 }
 
 .footer-text {
-
   font-style: normal;
 
   font-size: 16px;
@@ -244,12 +245,12 @@ body {
   text-transform: none;
   cursor: pointer;
   background-color: var(--button-backgroud);
-color: var(--logo-text-color);
+  color: var(--logo-text-color);
 }
 .filter-button:hover,
 .filter-button:focus {
-  background-color: #404BBF;
-  color: #FFFFFF;
+  background-color: #404bbf;
+  color: #ffffff;
 }
 .btn {
   background-color: #4d5ae5;
@@ -259,7 +260,6 @@ color: var(--logo-text-color);
 .btn:focus {
   background-color: #404bbf;
 }
-
 
 .card-title-name {
   font-family: "Roboto";
@@ -273,7 +273,6 @@ color: var(--logo-text-color);
 }
 
 .card-pro {
-
   font-style: normal;
 
   font-size: 16px;
