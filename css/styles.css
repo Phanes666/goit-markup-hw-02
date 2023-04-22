@@ -14,10 +14,9 @@
 
 .body {
   font-family: "Roboto", sans-serif;
-  
+
   background-color: var(--color-back);
   color: var(--color-txt-body);
-  font-family: var(--primary-font);
 }
 
 /* BASE STYLE */
