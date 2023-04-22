@@ -13,7 +13,7 @@
 }
 
 .body {
-  color: var(--color-back);
+  background-color: var(--color-back);
   color: var(--color-txt-body);
   font-family: var(--primary-font);
 }
